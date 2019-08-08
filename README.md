@@ -6,4 +6,4 @@ On this repo you will find a website based on the template "resume" from here: h
 
 The project has an only web page that uses HTML and CSS with bootstrap. I've used some sections alredy existed, but I've added two sections in the main page: Speaker and Contact.
 
-It's my first website using bootstrap, so, it needs to be improved.
+It's my first website using bootstrap, so, it needs to be improved. You can visit it on: https://melissaqa.github.io/
