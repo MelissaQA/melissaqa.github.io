@@ -192,5 +192,6 @@ a:hover, a:focus, a:active {
 }
 
 button{
-  color: #824027;
+  background-color: #824027;
+  color: #fff;
 }
